@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+nltk
+scikit-learn
+sentence-transformers
+bcrypt
+pyspellchecker
+rapidfuzz
